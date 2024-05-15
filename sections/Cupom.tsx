@@ -9,7 +9,9 @@ export default function Cupom({
 }: Props) {
   return (
     <div className="bg-pink-200 w-72">
-      <p><b>Cupom: {codigo}</b></p>
+      <p>
+        <b>Cupom: {codigo}</b>
+      </p>
       <p>{descricao}</p>
     </div>
   );
