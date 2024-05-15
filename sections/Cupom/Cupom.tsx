@@ -1,1 +1,1 @@
-export {default} from "../../components/cupom/Cupom.tsx";
+export { default } from "../../components/cupom/Cupom.tsx";
